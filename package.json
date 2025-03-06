@@ -1,0 +1,19 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/js",
+  "scripts": {
+    "build": "tsc",
+    "build:dev": "tsc -w",
+    "start": "serve public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "serve": "^14.2.4",
+    "typescript": "^5.8.2"
+  }
+}
